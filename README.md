@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Muhammad Marrij 👋
 
-<!--
-**MuhammadMarrij/MuhammadMarrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SQA Engineer · Lahore, Pakistan**
 
-Here are some ideas to get you started:
+I work on ensuring software ships reliably through structured testing, 
+API verification, and quality assurance frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I focus on
+- Manual QA and exploratory testing
+- Test case design and test plan documentation
+- Bug tracking and reporting (Jira, GitHub Issues)
+- API testing with Postman
+- Building QA processes and frameworks for development teams
+
+### Currently
+- Software QA Analyst @ AYSHX
+- Deepening skills in test automation and CI/CD pipelines
+
+📫 Reach me: muhammadmarrijhassan@gmail.com
